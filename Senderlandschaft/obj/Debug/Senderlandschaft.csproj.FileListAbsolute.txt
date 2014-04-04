@@ -1,0 +1,6 @@
+c:\users\volker\documents\visual studio 2013\Projects\Senderlandschaft\Senderlandschaft\bin\Debug\Senderlandschaft.exe.config
+c:\users\volker\documents\visual studio 2013\Projects\Senderlandschaft\Senderlandschaft\bin\Debug\Senderlandschaft.exe
+c:\users\volker\documents\visual studio 2013\Projects\Senderlandschaft\Senderlandschaft\bin\Debug\Senderlandschaft.pdb
+c:\users\volker\documents\visual studio 2013\Projects\Senderlandschaft\Senderlandschaft\obj\Debug\Senderlandschaft.csprojResolveAssemblyReference.cache
+c:\users\volker\documents\visual studio 2013\Projects\Senderlandschaft\Senderlandschaft\obj\Debug\Senderlandschaft.exe
+c:\users\volker\documents\visual studio 2013\Projects\Senderlandschaft\Senderlandschaft\obj\Debug\Senderlandschaft.pdb
